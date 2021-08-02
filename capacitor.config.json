@@ -1,0 +1,6 @@
+{
+  "appId": "com.github.zaichat.capacitor",
+  "appName": "ZaiChat",
+  "webDir": "target/build",
+  "bundledWebRuntime": false
+}
